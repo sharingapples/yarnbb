@@ -1,6 +1,6 @@
 {
   "name": "yarnbb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shortcut for adding bitbucket repositories using yarn",
   "main": "index.js",
   "bin": "./yarnbb.sh",
