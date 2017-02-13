@@ -1,13 +1,5 @@
 #!/bin/sh
-# A simple script to install packages using yarn
-# from bitbucket
-# Usage:
-#   yarnbb [--dev] <user name> <package name> <tag>
-# Example:
-#   yarnbb bhoos xsum v1.0.0
-# which runs as
-#   yarn add git+ssh://git@bitbucket.org/bhoos/cards.git#v1.0.0
-#!/bin/sh
+
 function invalid
 {
   echo "Invalid Arguments"
