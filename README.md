@@ -12,7 +12,7 @@ to install packages from bitbucket using the following syntax
 > `$ yarnbb <username/organization> <package> <tag> --dev`
 
 Example:
-> `$ yarnbb syaau private-repo v1.0.0
+> `$ yarnbb syaau private-repo v1.0.0`
 
 ## Installation
 > `$ npm install -g yarnbb`  
