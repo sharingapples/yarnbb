@@ -15,10 +15,10 @@ function invalid
   echo "  yarnbb [--dev] <user/origanization> <package> [<tag>]"
   echo ""
   echo "Example:"
-  echo "  yarnbb bhoos xsum v1.0.0"
+  echo "  yarnbb bhoos marriage v1.0.0"
   echo ""
   echo "Runs as:"
-  echo "  yarn add git+ssh://bitbucket.org/bhoos/xsum.git#v1.0.0"
+  echo "  yarn add git+ssh://bitbucket.org/bhoos/marriage.git#v1.0.0"
   echo ""
   exit
 }

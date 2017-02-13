@@ -17,5 +17,5 @@ Example:
 ## Installation
 > `$ npm install -g yarnbb`  
 or  
-> `$ yarn global install yarnbb`
+> `$ yarn global add yarnbb`
 
